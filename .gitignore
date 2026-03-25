@@ -1,0 +1,13 @@
+# Hugo 输出目录
+public/
+resources/_gen/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# 主题目录（用子模块）
+themes/

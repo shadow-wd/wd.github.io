@@ -1,0 +1,8 @@
+baseURL = "https://你的GitHub用户名.github.io/"
+languageCode = "zh-cn"
+title = "梦起白沙"
+theme = "ananke"
+
+[params]
+  description = "Linux · 读书 · 想法"
+  author = "梦起白沙"
