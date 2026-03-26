@@ -8,3 +8,5 @@ Thumbs.db
 
 # 日志
 *.log
+
+/.hugo_build.lock
